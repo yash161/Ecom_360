@@ -1,0 +1,151 @@
+.auth-page-wrapper {
+    min-height: 100vh;
+  }
+  
+  .auth-card {
+    background-color: #f8f9fa;
+  }
+  
+  .auth-effect-main {
+    width: 180px;
+    height: 180px;
+  }
+  
+  .effect-circle-1 {
+    width: 140px;
+    height: 140px;
+    background-color: #343a40;
+  }
+  
+  .effect-circle-2 {
+    width: 120px;
+    height: 120px;
+    background-color: #343a40;
+  }
+  
+  .effect-circle-3 {
+    width: 100px;
+    height: 100px;
+    background-color: #343a40;
+  }
+  
+  .auth-user-list {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .avatar-sm {
+    display: inline-block;
+    margin: 5px;
+  }
+  
+  .text-primary {
+    color: #5e72e4;
+  }
+  
+  .card.auth-card .text-white {
+    color: #fff;
+  }
+  
+  .card.auth-card .opacity-75 {
+    opacity: 0.75;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-muted {
+    color: #8898aa;
+  }
+  
+  .form-label {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .password-input {
+    padding-right: 40px !important;
+  }
+  
+  .auth-pass-inputgroup {
+    position: relative;
+  }
+  
+  .password-addon {
+    top: 0;
+    right: 0;
+    height: 100%;
+    padding: 7px 10px;
+    background: none;
+    border: none;
+    color: #8898aa;
+  }
+  
+  .form-check-label {
+    font-weight: 500;
+    color: #8898aa;
+  }
+  
+  .btn-primary {
+    background-color: #5e72e4;
+    border-color: #5e72e4;
+  }
+  
+  .btn-primary:hover {
+    background-color: #4054b2;
+    border-color: #4054b2;
+  }
+  
+  .btn-subtle-primary {
+    color: #5e72e4;
+    background-color: transparent;
+    border-color: transparent;
+  }
+  
+  .btn-subtle-primary:hover {
+    color: #4054b2;
+  }
+  
+  .btn-subtle-danger {
+    color: #f5365c;
+    background-color: transparent;
+    border-color: transparent;
+  }
+  
+  .btn-subtle-danger:hover {
+    color: #cc1034;
+  }
+  
+  .btn-subtle-dark {
+    color: #212529;
+    background-color: transparent;
+    border-color: transparent;
+  }
+  
+  .btn-subtle-dark:hover {
+    color: #000;
+  }
+  
+  .btn-subtle-info {
+    color: #11cdef;
+    background-color: transparent;
+    border-color: transparent;
+  }
+  
+  .btn-subtle-info:hover {
+    color: #0da5c0;
+  }
+  
+  .text-decoration-underline {
+    text-decoration: underline;
+  }
+  
+  .text-secondary {
+    color: #6c757d;
+  }
+  
+  .fw-semibold {
+    font-weight: 600;
+  }
+  
